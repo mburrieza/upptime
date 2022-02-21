@@ -32,10 +32,10 @@ navbar:
     href: /upptime
   - title: emPrenderte
     href: https://www.emprenderte.com
-  - title: Rumbo
-    href: https://rumbofenix.com
-  - title: Proeducer
-    href: http://www.proeducer.com
+  # - title: Rumbo
+  #   href: https://rumbofenix.com
+  # - title: Proeducer
+  #   href: http://www.proeducer.com
   #    href: https://github.com/$OWNER/$REPO
 
 # Upptime also supports notifications, assigning issues, and more
