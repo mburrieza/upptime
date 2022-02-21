@@ -19,16 +19,16 @@ status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   # cname: demo.upptime.js.org
-  baseUrl: /mburrieza.github.io/upptime
+  baseUrl: /upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: emPrenderte Uptime
+  name: emPrenderte Status
   introTitle: "**emPrenderte Uptime** Status Page"
   # is the open-source uptime monitor and status page, powered entirely by GitHub."
   introMessage: Sitio con datos **real-time** sobre el estado del sitio emPrenderte y asociados
   # This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/mburrieza/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/mburrieza/upptime)
-  navbar:
-    - title: emPrenderte Status
-      href: /upptime
+  #navbar:
+  #  - title: emPrenderte Status
+  #    href: /upptime
   #  - title: GitHub
   #    href: https://github.com/$OWNER/$REPO
 
