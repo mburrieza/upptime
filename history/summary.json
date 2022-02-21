@@ -40,19 +40,19 @@
     "url": "http://www.proeducer.com",
     "icon": "https://favicons.githubusercontent.com/www.proeducer.com",
     "slug": "proeducer",
-    "status": "down",
-    "uptime": "99.96%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.96%",
-    "time": 993,
-    "timeDay": 993,
-    "timeWeek": 993,
-    "timeMonth": 993,
-    "timeYear": 993,
+    "status": "up",
+    "uptime": "92.25%",
+    "uptimeDay": "92.25%",
+    "uptimeWeek": "92.25%",
+    "uptimeMonth": "92.25%",
+    "uptimeYear": "92.25%",
+    "time": 1053,
+    "timeDay": 1053,
+    "timeWeek": 1053,
+    "timeMonth": 1053,
+    "timeYear": 1053,
     "dailyMinutesDown": {
-      "2022-02-21": 0
+      "2022-02-21": 16
     }
   }
 ]
