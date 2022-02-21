@@ -24,15 +24,15 @@ status-website:
   name: emPrenderte Status
   introTitle: "**emPrenderte** Status Page"
   # is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: Datos **real-time** del estado de emPrenderte.com y sitios asociados
+  introMessage: Datos **real-time** del estado de www.emPrenderte.com y sus sitios asociados
   # This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/mburrieza/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/mburrieza/upptime)
   navbar:
-    - title: Status
-      href: /upptime
     - title: emPrenderte
       href: https://www.emprenderte.com
     - title: Rumbo
       href: https://rumbofenix.com
+    - title: Proeducer
+      href: http://www.proeducer.com
   #navbar:
   #- title: Status
   #  href: /upptime
