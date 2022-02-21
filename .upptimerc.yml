@@ -9,8 +9,8 @@ sites:
     url: https://rumbofenix.com
   - name: Proeducer
     url: http://www.proeducer.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  #- name: Test Broken Site
+  #  url: https://thissitedoesnotexist.koj.co
     
 assignees:
   - mburrieza
@@ -29,8 +29,10 @@ status-website:
   navbar:
     - title: Status
       href: /upptime
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+    - title: emPrenderte
+      href: https://www.emprenderte.com
+    - title: Rumbo
+      href: https://rumbofenix.com
   #navbar:
   #- title: Status
   #  href: /upptime
