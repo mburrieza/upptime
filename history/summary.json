@@ -5,16 +5,16 @@
     "icon": "https://favicons.githubusercontent.com/www.emprenderte.com",
     "slug": "em-prenderte",
     "status": "up",
-    "uptime": "99.88%",
+    "uptime": "99.89%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.31%",
     "uptimeMonth": "99.61%",
-    "uptimeYear": "99.88%",
-    "time": 533,
-    "timeDay": 629,
-    "timeWeek": 631,
+    "uptimeYear": "99.89%",
+    "time": 532,
+    "timeDay": 468,
+    "timeWeek": 587,
     "timeMonth": 578,
-    "timeYear": 533,
+    "timeYear": 532,
     "dailyMinutesDown": {
       "2022-05-31": 170
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1316,
-    "timeDay": 1423,
-    "timeWeek": 1484,
-    "timeMonth": 1404,
-    "timeYear": 1316,
+    "time": 1315,
+    "timeDay": 1274,
+    "timeWeek": 1424,
+    "timeMonth": 1409,
+    "timeYear": 1315,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 959,
-    "timeDay": 674,
-    "timeWeek": 997,
-    "timeMonth": 963,
-    "timeYear": 959,
+    "time": 960,
+    "timeDay": 1029,
+    "timeWeek": 967,
+    "timeMonth": 966,
+    "timeYear": 960,
     "dailyMinutesDown": {
       "2022-02-21": 16
     }
