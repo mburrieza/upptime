@@ -8,7 +8,7 @@
     "uptime": "95.62%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "63.99%",
+    "uptimeMonth": "63.96%",
     "uptimeYear": "95.62%",
     "time": 619,
     "timeDay": 0,
@@ -16,7 +16,7 @@
     "timeMonth": 604,
     "timeYear": 619,
     "dailyMinutesDown": {
-      "2023-01-11": 1150,
+      "2023-01-11": 1160,
       "2023-01-10": 1440,
       "2023-01-09": 1440,
       "2023-01-08": 1440,
@@ -45,19 +45,19 @@
     "url": "https://rumbofenix.com",
     "icon": "https://icons.duckduckgo.com/ip3/rumbofenix.com.ico",
     "slug": "rumbo-fenix",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.36%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 1473,
-    "timeDay": 1644,
-    "timeWeek": 1677,
-    "timeMonth": 1623,
+    "timeDay": 1639,
+    "timeWeek": 1672,
+    "timeMonth": 1624,
     "timeYear": 1473,
     "dailyMinutesDown": {
-      "2023-01-11": 0
+      "2023-01-11": 9
     }
   },
   {
