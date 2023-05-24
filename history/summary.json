@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.emprenderte.com.ico",
     "slug": "em-prenderte",
     "status": "up",
-    "uptime": "96.25%",
+    "uptime": "96.26%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.90%",
@@ -50,11 +50,11 @@
     "url": "https://rumbofenix.com",
     "icon": "https://icons.duckduckgo.com/ip3/rumbofenix.com.ico",
     "slug": "rumbo-fenix",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.66%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1498,
     "timeDay": 1152,
@@ -62,7 +62,7 @@
     "timeMonth": 1464,
     "timeYear": 1557,
     "dailyMinutesDown": {
-      "2023-05-24": 5
+      "2023-05-24": 0
     }
   },
   {
@@ -71,7 +71,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.proeducer.com.ico",
     "slug": "proeducer",
     "status": "up",
-    "uptime": "71.97%",
+    "uptime": "71.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
