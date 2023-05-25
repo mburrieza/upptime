@@ -50,19 +50,19 @@
     "url": "https://rumbofenix.com",
     "icon": "https://icons.duckduckgo.com/ip3/rumbofenix.com.ico",
     "slug": "rumbo-fenix",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.65%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 1499,
-    "timeDay": 1509,
-    "timeWeek": 1420,
-    "timeMonth": 1473,
-    "timeYear": 1557,
+    "time": 1501,
+    "timeDay": 1743,
+    "timeWeek": 1523,
+    "timeMonth": 1502,
+    "timeYear": 1559,
     "dailyMinutesDown": {
-      "2023-05-25": 0
+      "2023-05-25": 5
     }
   },
   {
