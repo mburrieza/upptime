@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.emprenderte.com.ico",
     "slug": "em-prenderte",
     "status": "up",
-    "uptime": "96.57%",
+    "uptime": "96.58%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "95.34%",
-    "time": 616,
-    "timeDay": 907,
-    "timeWeek": 804,
-    "timeMonth": 687,
-    "timeYear": 642,
+    "time": 615,
+    "timeDay": 225,
+    "timeWeek": 796,
+    "timeMonth": 672,
+    "timeYear": 641,
     "dailyMinutesDown": {
       "2023-05-04": 45,
       "2023-04-14": 885,
@@ -56,9 +56,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 1520,
-    "timeDay": 1756,
-    "timeWeek": 1666,
-    "timeMonth": 1610,
+    "timeDay": 1155,
+    "timeWeek": 1663,
+    "timeMonth": 1597,
     "timeYear": 1569,
     "dailyMinutesDown": {
       "2023-05-25": 33
@@ -70,16 +70,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.proeducer.com.ico",
     "slug": "proeducer",
     "status": "up",
-    "uptime": "74.33%",
+    "uptime": "74.38%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "71.89%",
+    "uptimeYear": "72.17%",
     "time": 824,
-    "timeDay": 1128,
-    "timeWeek": 1036,
-    "timeMonth": 1016,
-    "timeYear": 831,
+    "timeDay": 900,
+    "timeWeek": 1030,
+    "timeMonth": 1008,
+    "timeYear": 833,
     "dailyMinutesDown": {
       "2022-10-15": 961,
       "2022-10-14": 1440,
@@ -181,8 +181,7 @@
       "2022-07-10": 1440,
       "2022-07-09": 1440,
       "2022-07-08": 1440,
-      "2022-07-07": 1440,
-      "2022-07-06": 1440
+      "2022-07-07": 1440
     }
   }
 ]
