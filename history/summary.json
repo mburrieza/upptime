@@ -48,19 +48,19 @@
     "url": "http://www.proeducer.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.proeducer.com.ico",
     "slug": "proeducer",
-    "status": "down",
+    "status": "up",
     "uptime": "87.28%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.40%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 1051,
-    "timeDay": 1207,
-    "timeWeek": 1171,
-    "timeMonth": 1064,
-    "timeYear": 1044,
+    "time": 1056,
+    "timeDay": 2299,
+    "timeWeek": 1448,
+    "timeMonth": 1137,
+    "timeYear": 1050,
     "dailyMinutesDown": {
-      "2024-11-25": 0
+      "2024-11-25": 9
     }
   }
 ]
