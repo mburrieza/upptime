@@ -50,17 +50,17 @@
     "slug": "proeducer",
     "status": "down",
     "uptime": "87.46%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptimeDay": "95.51%",
+    "uptimeWeek": "99.36%",
+    "uptimeMonth": "99.85%",
+    "uptimeYear": "99.99%",
     "time": 1058,
     "timeDay": 690,
     "timeWeek": 957,
     "timeMonth": 1131,
     "timeYear": 1049,
     "dailyMinutesDown": {
-      "2024-12-10": 0
+      "2024-12-10": 65
     }
   }
 ]
