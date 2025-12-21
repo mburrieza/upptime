@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.emprenderte.com.ico",
     "slug": "em-prenderte",
     "status": "up",
-    "uptime": "95.92%",
+    "uptime": "95.93%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "93.59%",
-    "uptimeYear": "91.39%",
-    "time": 3785,
-    "timeDay": 3836,
-    "timeWeek": 3629,
-    "timeMonth": 5594,
-    "timeYear": 4269,
+    "uptimeYear": "91.67%",
+    "time": 3788,
+    "timeDay": 3818,
+    "timeWeek": 3654,
+    "timeMonth": 5584,
+    "timeYear": 4267,
     "dailyMinutesDown": {
       "2025-11-29": 959,
       "2025-11-28": 1440,
@@ -54,8 +54,7 @@
       "2024-12-25": 1440,
       "2024-12-24": 1440,
       "2024-12-23": 1440,
-      "2024-12-22": 1440,
-      "2024-12-21": 1440
+      "2024-12-22": 1440
     }
   },
   {
@@ -70,10 +69,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.42%",
     "time": 331,
-    "timeDay": 421,
-    "timeWeek": 361,
-    "timeMonth": 374,
-    "timeYear": 335,
+    "timeDay": 331,
+    "timeWeek": 343,
+    "timeMonth": 377,
+    "timeYear": 336,
     "dailyMinutesDown": {
       "2025-05-19": 1200,
       "2025-05-18": 1440,
@@ -91,18 +90,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.proeducer.com.ico",
     "slug": "proeducer",
     "status": "down",
-    "uptime": "63.99%",
+    "uptime": "63.95%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 818,
+    "time": 815,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 257,
     "dailyMinutesDown": {
-      "2025-12-20": 112,
+      "2025-12-21": 125,
+      "2025-12-20": 1440,
       "2025-12-19": 1440,
       "2025-12-18": 1440,
       "2025-12-17": 1440,
@@ -465,8 +465,7 @@
       "2024-12-25": 1440,
       "2024-12-24": 1440,
       "2024-12-23": 1440,
-      "2024-12-22": 1440,
-      "2024-12-21": 1440
+      "2024-12-22": 1440
     }
   }
 ]
