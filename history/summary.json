@@ -10,11 +10,11 @@
     "uptimeWeek": "99.53%",
     "uptimeMonth": "99.79%",
     "uptimeYear": "96.09%",
-    "time": 3899,
-    "timeDay": 4581,
-    "timeWeek": 3818,
-    "timeMonth": 3801,
-    "timeYear": 4292,
+    "time": 3901,
+    "timeDay": 3713,
+    "timeWeek": 3794,
+    "timeMonth": 3785,
+    "timeYear": 4294,
     "dailyMinutesDown": {
       "2026-01-21": 48,
       "2026-01-10": 27,
@@ -56,9 +56,9 @@
     "uptimeMonth": "96.29%",
     "uptimeYear": "98.11%",
     "time": 337,
-    "timeDay": 308,
-    "timeWeek": 593,
-    "timeMonth": 414,
+    "timeDay": 404,
+    "timeWeek": 591,
+    "timeMonth": 410,
     "timeYear": 342,
     "dailyMinutesDown": {
       "2026-01-18": 1064,
@@ -79,18 +79,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.proeducer.com.ico",
     "slug": "proeducer",
     "status": "down",
-    "uptime": "62.53%",
+    "uptime": "62.52%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 758,
+    "time": 754,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 347,
+    "timeYear": 357,
     "dailyMinutesDown": {
-      "2026-01-21": 1085,
+      "2026-01-22": 127,
+      "2026-01-21": 1440,
       "2026-01-20": 1440,
       "2026-01-19": 1440,
       "2026-01-18": 1440,
@@ -453,8 +454,7 @@
       "2025-01-26": 1440,
       "2025-01-25": 1440,
       "2025-01-24": 1440,
-      "2025-01-23": 1440,
-      "2025-01-22": 1440
+      "2025-01-23": 1440
     }
   }
 ]
