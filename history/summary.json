@@ -6,15 +6,15 @@
     "slug": "em-prenderte",
     "status": "up",
     "uptime": "95.66%",
-    "uptimeDay": "54.61%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "91.04%",
     "uptimeMonth": "97.62%",
-    "uptimeYear": "95.44%",
-    "time": 4016,
-    "timeDay": 2462,
-    "timeWeek": 3115,
-    "timeMonth": 3266,
-    "timeYear": 4290,
+    "uptimeYear": "95.67%",
+    "time": 4019,
+    "timeDay": 3513,
+    "timeWeek": 3123,
+    "timeMonth": 3268,
+    "timeYear": 4288,
     "dailyMinutesDown": {
       "2026-03-25": 903,
       "2026-03-18": 53,
@@ -45,8 +45,7 @@
       "2025-06-27": 1234,
       "2025-06-26": 1440,
       "2025-06-25": 615,
-      "2025-04-01": 240,
-      "2025-03-27": 828
+      "2025-04-01": 240
     }
   },
   {
@@ -57,13 +56,13 @@
     "status": "up",
     "uptime": "99.52%",
     "uptimeDay": "95.63%",
-    "uptimeWeek": "99.01%",
-    "uptimeMonth": "99.57%",
+    "uptimeWeek": "99.38%",
+    "uptimeMonth": "99.71%",
     "uptimeYear": "98.06%",
-    "time": 535,
-    "timeDay": 371,
-    "timeWeek": 500,
-    "timeMonth": 790,
+    "time": 536,
+    "timeDay": 220,
+    "timeWeek": 432,
+    "timeMonth": 779,
     "timeYear": 592,
     "dailyMinutesDown": {
       "2026-03-26": 63,
@@ -90,18 +89,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.proeducer.com.ico",
     "slug": "proeducer",
     "status": "down",
-    "uptime": "59.87%",
+    "uptime": "59.84%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
     "uptimeYear": "0.00%",
-    "time": 519,
+    "time": 513,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-03-26": 408,
+      "2026-03-27": 167,
+      "2026-03-26": 1440,
       "2026-03-25": 1440,
       "2026-03-24": 1440,
       "2026-03-23": 1440,
@@ -464,8 +464,7 @@
       "2025-03-31": 1440,
       "2025-03-30": 1440,
       "2025-03-29": 1440,
-      "2025-03-28": 1440,
-      "2025-03-27": 1440
+      "2025-03-28": 1440
     }
   }
 ]
