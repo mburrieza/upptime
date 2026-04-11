@@ -6,7 +6,7 @@
     "slug": "em-prenderte",
     "status": "up",
     "uptime": "95.45%",
-    "uptimeDay": "0.01%",
+    "uptimeDay": "3.06%",
     "uptimeWeek": "45.26%",
     "uptimeMonth": "85.11%",
     "uptimeYear": "94.79%",
@@ -104,7 +104,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-04-11": 116,
+      "2026-04-11": 160,
       "2026-04-10": 1440,
       "2026-04-09": 1440,
       "2026-04-08": 1440,
