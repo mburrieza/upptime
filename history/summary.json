@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.emprenderte.com.ico",
     "slug": "em-prenderte",
     "status": "up",
-    "uptime": "93.92%",
+    "uptime": "93.93%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "84.51%",
-    "uptimeMonth": "20.83%",
+    "uptimeWeek": "98.79%",
+    "uptimeMonth": "24.11%",
     "uptimeYear": "87.93%",
-    "time": 4101,
-    "timeDay": 3311,
-    "timeWeek": 3582,
-    "timeMonth": 3582,
+    "time": 4093,
+    "timeDay": 2671,
+    "timeWeek": 3469,
+    "timeMonth": 3469,
     "timeYear": 4371,
     "dailyMinutesDown": {
       "2026-05-07": 350,
@@ -88,12 +88,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "97.36%",
     "uptimeMonth": "43.76%",
-    "uptimeYear": "93.39%",
-    "time": 568,
-    "timeDay": 470,
-    "timeWeek": 652,
-    "timeMonth": 742,
-    "timeYear": 633,
+    "uptimeYear": "93.48%",
+    "time": 567,
+    "timeDay": 161,
+    "timeWeek": 547,
+    "timeMonth": 739,
+    "timeYear": 634,
     "dailyMinutesDown": {
       "2026-05-12": 4,
       "2026-05-11": 262,
@@ -127,8 +127,7 @@
       "2025-05-18": 1440,
       "2025-05-17": 1440,
       "2025-05-16": 1440,
-      "2025-05-15": 1440,
-      "2025-05-14": 767
+      "2025-05-15": 1440
     }
   },
   {
@@ -137,16 +136,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.proeducer.com.ico",
     "slug": "proeducer",
     "status": "up",
-    "uptime": "58.09%",
+    "uptime": "58.12%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "17.58%",
-    "uptimeMonth": "5.42%",
-    "uptimeYear": "0.34%",
-    "time": 235,
-    "timeDay": 304,
-    "timeWeek": 145,
-    "timeMonth": 159,
-    "timeYear": 159,
+    "uptimeWeek": "31.86%",
+    "uptimeMonth": "8.71%",
+    "uptimeYear": "0.61%",
+    "time": 234,
+    "timeDay": 153,
+    "timeWeek": 149,
+    "timeMonth": 158,
+    "timeYear": 158,
     "dailyMinutesDown": {
       "2026-05-11": 1337,
       "2026-05-10": 1440,
@@ -509,8 +508,7 @@
       "2025-05-18": 1440,
       "2025-05-17": 1440,
       "2025-05-16": 1440,
-      "2025-05-15": 1440,
-      "2025-05-14": 1440
+      "2025-05-15": 1440
     }
   }
 ]
