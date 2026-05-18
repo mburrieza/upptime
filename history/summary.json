@@ -8,13 +8,13 @@
     "uptime": "93.94%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "33.98%",
+    "uptimeMonth": "37.30%",
     "uptimeYear": "87.93%",
-    "time": 4094,
-    "timeDay": 3587,
-    "timeWeek": 3606,
-    "timeMonth": 3633,
-    "timeYear": 4376,
+    "time": 4092,
+    "timeDay": 2994,
+    "timeWeek": 3467,
+    "timeMonth": 3580,
+    "timeYear": 4374,
     "dailyMinutesDown": {
       "2026-05-07": 350,
       "2026-05-06": 1440,
@@ -84,15 +84,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/rumbofenix.com.ico",
     "slug": "rumbo-fenix",
     "status": "up",
-    "uptime": "98.42%",
+    "uptime": "98.43%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "95.66%",
-    "uptimeMonth": "43.37%",
-    "uptimeYear": "94.18%",
+    "uptimeMonth": "45.19%",
+    "uptimeYear": "94.46%",
     "time": 589,
-    "timeDay": 573,
-    "timeWeek": 1428,
-    "timeMonth": 1142,
+    "timeDay": 284,
+    "timeWeek": 1368,
+    "timeMonth": 1092,
     "timeYear": 662,
     "dailyMinutesDown": {
       "2026-05-15": 79,
@@ -125,8 +125,7 @@
       "2026-01-25": 18,
       "2026-01-18": 1064,
       "2026-01-17": 559,
-      "2025-05-19": 1200,
-      "2025-05-18": 1440
+      "2025-05-19": 1200
     }
   },
   {
@@ -135,13 +134,13 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.proeducer.com.ico",
     "slug": "proeducer",
     "status": "up",
-    "uptime": "58.20%",
+    "uptime": "58.23%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "74.75%",
-    "uptimeMonth": "18.58%",
-    "uptimeYear": "1.43%",
-    "time": 232,
-    "timeDay": 214,
+    "uptimeWeek": "89.16%",
+    "uptimeMonth": "21.90%",
+    "uptimeYear": "1.71%",
+    "time": 233,
+    "timeDay": 161,
     "timeWeek": 173,
     "timeMonth": 161,
     "timeYear": 161,
@@ -503,8 +502,7 @@
       "2025-05-22": 1440,
       "2025-05-21": 1440,
       "2025-05-20": 1440,
-      "2025-05-19": 1440,
-      "2025-05-18": 1440
+      "2025-05-19": 1440
     }
   }
 ]
