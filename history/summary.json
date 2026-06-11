@@ -12,7 +12,7 @@
     "uptimeYear": "87.91%",
     "time": 4080,
     "timeDay": 4677,
-    "timeWeek": 3735,
+    "timeWeek": 3758,
     "timeMonth": 3813,
     "timeYear": 4330,
     "dailyMinutesDown": {
@@ -85,14 +85,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/rumbofenix.com.ico",
     "slug": "rumbo-fenix",
     "status": "down",
-    "uptime": "98.45%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.12%",
-    "uptimeMonth": "98.80%",
-    "uptimeYear": "94.90%",
+    "uptime": "98.44%",
+    "uptimeDay": "89.12%",
+    "uptimeWeek": "97.57%",
+    "uptimeMonth": "98.44%",
+    "uptimeYear": "94.87%",
     "time": 612,
     "timeDay": 809,
-    "timeWeek": 442,
+    "timeWeek": 445,
     "timeMonth": 892,
     "timeYear": 691,
     "dailyMinutesDown": {
@@ -127,7 +127,7 @@
       "2026-05-14": 92,
       "2026-05-15": 79,
       "2026-06-08": 89,
-      "2026-06-11": 1
+      "2026-06-11": 157
     }
   },
   {
@@ -482,7 +482,7 @@
       "2025-06-13": 1440,
       "2025-06-12": 1440,
       "2026-05-22": 94,
-      "2026-06-11": 104,
+      "2026-06-11": 260,
       "2026-06-10": 1440,
       "2026-06-09": 1440,
       "2026-06-08": 1440,
