@@ -4,9 +4,9 @@
     "url": "https://www.emprenderte.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.emprenderte.com.ico",
     "slug": "em-prenderte",
-    "status": "up",
+    "status": "down",
     "uptime": "93.23%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "51.23%",
     "uptimeYear": "84.47%",
@@ -91,7 +91,8 @@
       "2026-07-03": 1440,
       "2026-07-02": 1440,
       "2026-07-01": 1440,
-      "2026-06-30": 1082
+      "2026-06-30": 1082,
+      "2026-07-13": 0
     }
   },
   {
@@ -154,9 +155,9 @@
     "status": "up",
     "uptime": "57.18%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "38.08%",
-    "uptimeMonth": "10.14%",
-    "uptimeYear": "6.04%",
+    "uptimeWeek": "38.88%",
+    "uptimeMonth": "10.33%",
+    "uptimeYear": "6.05%",
     "time": 374,
     "timeDay": 1095,
     "timeWeek": 2318,
