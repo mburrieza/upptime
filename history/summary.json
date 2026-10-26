@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.emprenderte.com.ico",
     "slug": "em-prenderte",
     "status": "down",
-    "uptime": "87.50%",
+    "uptime": "87.49%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "56.58%",
+    "uptimeYear": "56.53%",
     "time": 4207,
     "timeDay": 0,
     "timeWeek": 0,
@@ -84,7 +84,7 @@
       "2026-07-02": 1440,
       "2026-07-01": 1440,
       "2026-06-30": 1082,
-      "2026-10-26": 241,
+      "2026-10-26": 468,
       "2026-10-25": 1440,
       "2026-10-24": 1440,
       "2026-10-23": 1440,
@@ -251,12 +251,12 @@
     "url": "http://www.proeducer.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.proeducer.com.ico",
     "slug": "proeducer",
-    "status": "up",
+    "status": "down",
     "uptime": "59.75%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "97.21%",
-    "uptimeYear": "34.49%",
+    "uptimeYear": "34.54%",
     "time": 1110,
     "timeDay": 1317,
     "timeWeek": 1661,
@@ -507,7 +507,8 @@
       "2026-09-13": 248,
       "2026-10-12": 416,
       "2026-10-16": 280,
-      "2026-10-18": 525
+      "2026-10-18": 525,
+      "2026-10-26": 0
     }
   }
 ]
